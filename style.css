@@ -20,6 +20,18 @@ td {
     background-color: linen;
 }
 
-body {
+/* body {
     background-color: rgb(231, 189, 241);
-}
+} */
+
+
+body{background-image:   
+    repeating-linear-gradient(
+        29deg,
+    rgb(137, 228, 85),
+    rgb(137, 228, 85) 10px,
+    rgb(224, 157, 157) 10px,
+    rgb(224, 157, 157) 20px/* determines size */
+);
+
+};
