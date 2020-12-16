@@ -1,4 +1,11 @@
-let fields = document.querySelectorAll('td')
+let fields = document.querySelectorAll('td');
+let firstRow = document.querySelectorAll('.fir');
+let secondRow = document.querySelectorAll('.sec');
+let thirdRow = document.querySelectorAll('.thi');
+let fourthRow = document.querySelectorAll('.fou');
+let fiftRow = document.querySelectorAll('.fif');
+let sixtRow = document.querySelectorAll('.six');
+let seventhRow = document.querySelectorAll('.sev');
 let count = 0;
 
 fields.forEach((field) => {
