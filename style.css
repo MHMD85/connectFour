@@ -27,11 +27,12 @@ td {
 
 body{background-image:   
     repeating-linear-gradient(
-        29deg,
-    rgb(137, 228, 85),
-    rgb(137, 228, 85) 10px,
-    rgb(224, 157, 157) 10px,
-    rgb(224, 157, 157) 20px/* determines size */
+        90deg,
+        /* 29deg, */
+    rgb(191, 245, 159),
+    rgb(191, 245, 159)85px,
+    rgb(245, 194, 228) 85px,
+    rgb(245, 194, 228)165px/* determines size */
 );
 
 };
